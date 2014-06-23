@@ -1,0 +1,21 @@
+{
+	"name": "euromd/yii2-alchemy-api",
+	"description": "Yii2-wrapper for Alchemy APi Service",
+	"keywords": ["yii2", "alchemy-api"],
+	"license": "BSD License",
+	"type": "yii2-extension",
+	"authors": [
+		{
+			"name": "Borales (Alexandr Bordun)",
+			"email": "bordun.alexandr@gmail.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"EuroMD\\alchemy-api\\": ""
+		}
+	},
+	"require": {
+		"yiisoft/yii2": "*"
+	}
+}
