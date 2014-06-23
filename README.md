@@ -1,2 +1,3 @@
-yii2-alchemy-api
-================
+Alchemy API (Yii2-wrapper)
+==========================
+

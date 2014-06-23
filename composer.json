@@ -1,6 +1,6 @@
 {
 	"name": "euromd/yii2-alchemy-api",
-	"description": "Yii2-wrapper for Alchemy APi Service",
+	"description": "Yii2-wrapper for Alchemy API Service",
 	"keywords": ["yii2", "alchemy-api"],
 	"license": "BSD License",
 	"type": "yii2-extension",
@@ -12,10 +12,11 @@
 	],
 	"autoload": {
 		"psr-4": {
-			"EuroMD\\alchemy-api\\": ""
+			"EuroMD\\alchemyAPI\\": ""
 		}
 	},
 	"require": {
-		"yiisoft/yii2": "*"
+		"yiisoft/yii2": "*",
+		"alchemyai/alchemyapi_php": "*"
 	}
 }
