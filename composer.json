@@ -12,10 +12,11 @@
 	],
 	"autoload": {
 		"psr-4": {
-			"EuroMD\\alchemyAPI\\": ""
+			"EuroMD\\alchemyAPI\\": "src/EuroMD/alchemyAPI/"
 		}
 	},
 	"require": {
+		"php": ">=5.4.0",
 		"yiisoft/yii2": "*",
 		"alchemyai/alchemyapi_php": "*"
 	}

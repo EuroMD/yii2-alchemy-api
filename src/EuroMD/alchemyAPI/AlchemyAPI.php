@@ -13,5 +13,8 @@ use yii\base\Component;
  */
 class AlchemyAPI extends Component
 {
+	/** @var string API Key */
+	public $apiKey;
+
 
 }
